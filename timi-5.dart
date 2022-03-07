@@ -18,5 +18,5 @@ void main(List<String> arguments) {
     factorial = factorial * num;
     num--;
   }
-  print("The factorial is ${factorial}");
+  print("The factorial is ${factorial}!");
 }
